@@ -1,7 +1,7 @@
 Python code to access RethinkDB
 ===============================
 
-A simple Ruby code to access RethinkDB and perform CRUD actions. Also, the code has a 'real-time change feed' to get all changes in database.
+A simple Python code to access RethinkDB and perform CRUD actions. Also, the code has a 'real-time change feed' to get all changes in database.
 
 Programming Language and libraries used to solve the problems
 -------------------------------------------------------------
